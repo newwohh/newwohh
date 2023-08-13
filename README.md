@@ -7,5 +7,5 @@ I am a passionate MERN stack developer who loves working on exciting projects an
 
 ## Contact
 You can reach me via:
-- Email: [nevoznvx@gmail.com](nevoznvx@gmail.com)
+- Email: [hellonevo13@gmail.com](hellonevo13@gmail.com)
 - LinkedIn: [Nevin Raju](https://www.linkedin.com/in/nevinraju/)
