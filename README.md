@@ -10,11 +10,6 @@ I'm a curiosity-driven full-stack developer focused on building useful, reliable
 
 JavaScript · React · Next.js · Node.js · Express · MongoDB · Firebase · Python
 
-## Experience & Education
-
-- **Threasury Media** — Full-stack web development
-- **Bangalore University** — 2018–2021
-
 ## Contact
 You can reach me via:
 - Email: [hellonevo13@gmail.com](hellonevo13@gmail.com)
