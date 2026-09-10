@@ -10,13 +10,6 @@ I'm a curiosity-driven full-stack developer focused on building useful, reliable
 
 JavaScript · React · Next.js · Node.js · Express · MongoDB · Firebase · Python
 
-## Featured Projects
-
-- **[MarketWise](https://github.com/newwohh/marketwise-frontend)** — A market-tracking platform for cryptocurrency, forex, and stocks with real-time data, charts, news, analysis, alerts, and an investment simulator.
-- **[Techwise](https://github.com/newwohh/techwise-user)** — A B2B e-commerce platform centered around a membership program with discounts and free delivery.
-- **[WealthWise](https://github.com/newwohh/wealthwise-full-stack)** — A Next.js finance app for transactions, budgeting, and financial goal tracking.
-- **[Whispr](https://github.com/newwohh/whispr-chat-frontend)** — A real-time chat application with Firebase, Framer Motion, and Material UI.
-
 ## Experience & Education
 
 - **Threasury Media** — Full-stack web development
